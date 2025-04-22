@@ -3,7 +3,7 @@
 """
 Created on Mon Apr 21 00:21:28 2025
 
-@author: parichikaphumikakrak
+@author: Lab
 """
 
 import streamlit as st
@@ -14,7 +14,7 @@ from sklearn.datasets import load_iris
 import matplotlib.pyplot as plt
 
 # Page title
-st.title("🔍 K-Means Clustering App with Iris Dataset by Parichika Phumikakrak")
+st.title("🔍 K-Means Clustering App with Iris Dataset by Thanchanok Komonnak")
 
 # Load dataset
 iris = load_iris()
